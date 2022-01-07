@@ -6,4 +6,4 @@
 ### 2.1.综述
 [论文地址1]: https://www.mdpi.com/1424-8220/19/12/2837 "综述论文链接1"
 [代码地址1]: https://github.com/ihtishamaliktk/RWHE-Calib "代码地址1"
-1.Methods for Simultaneous Robot-World-Hand–Eye Calibration: A Comparative Study 2019 [Paper][论文地址1]  [Code][代码地址1]
+[1].Methods for Simultaneous Robot-World-Hand–Eye Calibration: A Comparative Study. 2019 [Paper][论文地址1]  [Code][代码地址1]
