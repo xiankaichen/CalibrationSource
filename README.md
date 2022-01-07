@@ -4,5 +4,5 @@
 
 ## 手眼标定资源
 ### 综述
-[综述1]: https://www.jianshu.com/u/7ecaba2d594c "郭斌勇的主页"
-1.Methods for Simultaneous Robot-World-Hand–Eye Calibration: A Comparative Study 2019 [Paper][综述1]  Code
+[论文地址1]: https://www.mdpi.com/1424-8220/19/12/2837 "综述论文链接"
+1.Methods for Simultaneous Robot-World-Hand–Eye Calibration: A Comparative Study 2019 [Paper][论文地址1]  [Code][代码地址1]
